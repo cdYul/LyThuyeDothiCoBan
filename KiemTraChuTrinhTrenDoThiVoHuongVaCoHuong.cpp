@@ -11,17 +11,7 @@
 ///     return false;
 ///}
 
-
-#include <iostream>
-#include <string>
-#include <set>
-#include <vector>
-#include <sstream>
-#include <queue>
-#include <map>
-#include <stack>
-#include <math.h>
-#include <algorithm>
+#include <bits/stdc++.h>
 #define endl "\n"
 #define maxn 1001
 using namespace std;
