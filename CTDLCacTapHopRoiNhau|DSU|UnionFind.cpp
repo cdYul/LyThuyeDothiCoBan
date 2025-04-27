@@ -4,18 +4,8 @@
 // make_set(a) : tao mot tap hop chua p/tu a
 // union (a,b) : gop hai tap hop voi nhau (a thuoc tap hop thu 1, b thuoc tap hop thu 2)
 // Find (a) : Tim ra p/tu dai dien ma a thuoc tap hop do
-
-#include <iostream>
-#include <string>
-#include <set>
-#include <vector>
-#include <sstream>
-#include <queue>
-#include <map>
-#include <stack>
-#include <math.h>
-#include <algorithm>
-#define endl "\n"
+#include <bist/stdc++.h>
+#define endl '\n'
 #define maxn 1001
 using namespace std;
 using ll = long long;
