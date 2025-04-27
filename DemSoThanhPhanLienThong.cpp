@@ -15,12 +15,7 @@
 ///     return cnt;
 ///}
 
-#include <iostream>
-#include <string>
-#include <set>
-#include <vector>
-#include <sstream>
-#include <queue>
+#include <bits/stdc++.h>
 #define maxn 1001
 using namespace std;
 using ll = long long;
