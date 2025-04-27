@@ -1,15 +1,6 @@
 //Dinh Tru: loai bo dinh lam tang so thanh phan lien thong
 //Canh cau :  lam tang so tp lien thong cua do thi
-#include <iostream>
-#include <string>
-#include <set>
-#include <vector>
-#include <sstream>
-#include <queue>
-#include <map>
-#include <stack>
-#include <math.h>
-#include <algorithm>
+#include <bits/stdc++.h>
 #define endl "\n"
 #define maxn 1001
 using namespace std;
