@@ -21,16 +21,7 @@
 //          MST = MST U e
 //          d(MST) += d(e)
 
-#include <iostream>
-#include <string>
-#include <set>
-#include <vector>
-#include <sstream>
-#include <queue>
-#include <map>
-#include <stack>
-#include <math.h>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
 const int maxn = 1001;
