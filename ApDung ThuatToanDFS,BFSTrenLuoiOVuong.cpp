@@ -2,14 +2,7 @@
 /// Bai toan 1: Đếm số thành phần liên thông trên lưới
 /// Bai toan 2: Kiếm tra đường đi giữa 2 điểm trên lưới
 /// Bai toan 3: Tim số bước đi tối thiểu giữa 2 ôn trên lưới
-
-#include <iostream>
-#include <string>
-#include <set>
-#include <vector>
-#include <sstream>
-#include <queue>
-#include <map>
+#include <bits/stdc++.h>
 #define maxn 1001
 using namespace std;
 using ll = long long;
