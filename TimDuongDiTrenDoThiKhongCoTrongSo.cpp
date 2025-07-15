@@ -1,14 +1,7 @@
 // Tim đường đi giữa 2 đỉnh (vô hướng và có hướng):
 /// code tương tự thuật toán dfs và bfs nhưng duy trig thêm
 /// mảng "parent" để truy vết đường đi. Giả sử tìm đường đi s - > t ta gọi dfs(s) hoặc bfs(s)
-
-#include <iostream>
-#include <string>
-#include <set>
-#include <vector>
-#include <sstream>
-#include <queue>
-#include <map>
+#include <bits/stdc++.h>
 #define maxn 1001
 using namespace std;
 using ll = long long;
